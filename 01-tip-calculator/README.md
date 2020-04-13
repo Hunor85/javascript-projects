@@ -9,3 +9,5 @@ Concepts:
 * template literal ${tip}
 * set innerHTML
 * (cost.value * 0.15).toFixed(2)
+
+![alt text][https://github.com/Hunor85/javascript-projects/blob/master/01-tip-calculator/screenshot/tip-calculator.png]
